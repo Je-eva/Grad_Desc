@@ -1,4 +1,4 @@
-HELLO VIEWERS, HERES A QUICK README TO THE PROVIDED COD
+HELLO VIEWERS, HERES A QUICK README TO THE PROVIDED CODE
 
 Firstly, accept user inputs to enter coefficients of a cubic equation , in float and map() is used to enter all the coefficients at a time separated by space.
 Then,we initialize vaariable x with random value using numpy.random.rand().
